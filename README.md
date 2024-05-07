@@ -1,4 +1,7 @@
 # test- 1
+
+(![이미지 대체 텍스트](이미지 주소))
+![이미지 이름}(./https://github.com/Jongha-0430/test-1/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-03-13%20133221.png)
 ## 에
 ### 에 
 #### 에
